@@ -1,0 +1,29 @@
+body{
+	background-color:	#F5F5DC;
+}
+#ul_one{
+	background-color:rgba(255, 255, 255, 0.3);
+	font-size:5vh;
+	height:10vh;
+}
+#ul_one>li{
+	float:left;
+	display:block;
+	line-height:10vh;
+
+}
+img{
+	height:10vh;
+}
+
+#ul_two>li{
+	float:left;
+	display:block;
+	margin-left:2vw;
+	width:20vw;
+	border:2px solid grey;
+	background-color:rgba(255, 255, 255, 0.4);
+	font-size:2vh;
+	text-align:center;
+	list-style:none;
+}
